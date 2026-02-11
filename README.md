@@ -51,6 +51,12 @@ Some projects are public; others are private.
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Heroku](https://skillicons.dev/icons?i=heroku)
 
+## 🛠 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 ---
 ---
 
