@@ -22,10 +22,6 @@ The cat 🐈 handles code reviews.
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snyderpf&layout=compact&count_private=true)
-
-
-
 ### Frontend
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
