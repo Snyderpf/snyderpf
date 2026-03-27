@@ -4,7 +4,6 @@ My focus is on developing software where the architecture is finalized long befo
 
 > While you're here check out Rygy 😺🎮 <a href="https://Snyderpf.github.io/RatBlaster9000">Rygy: Rat Blaster 9000</a>, a Win98 desktop simulator and shooter I built in C++17 + Raylib, compiled to WebAssembly. No downloads, just open and play. *(right-click → open in new tab for best experience)*
 
-
 The cat 🐈 handles code reviews. 
 
 ## What I Focus On
@@ -21,6 +20,11 @@ The cat 🐈 handles code reviews.
 ![C#](https://skillicons.dev/icons?i=cs)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snyderpf&layout=compact&count_private=true)
+
+
 
 ### Frontend
 ![React](https://skillicons.dev/icons?i=react)
