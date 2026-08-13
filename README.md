@@ -4,7 +4,6 @@ My focus is on developing software where the architecture is finalized long befo
 
 > While you're here check out Rygy 😺🎮 <a href="https://Snyderpf.github.io/RatBlaster9000">Rygy: Rat Blaster 9000</a>, a Win98 desktop simulator and shooter I built in C++17 + Raylib, compiled to WebAssembly. No downloads, just open and play. *(right-click → open in new tab for best experience)*
 
-The cat 🐈 handles code reviews. 
 
 ## What I Focus On
 - Writing efficient and predictable code
