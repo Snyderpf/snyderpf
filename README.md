@@ -46,7 +46,6 @@ The cat 🐈 handles code reviews.
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-![Cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <!--
 **Snyderpf/snyderpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
